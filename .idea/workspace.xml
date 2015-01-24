@@ -2,19 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7f58a0-d19a-4c08-9cd5-15d53a103eef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/Open_on_hoverintent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/collapse_content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/customize_icons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/default_functionality.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/fill_space.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jquerypractice.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/no_auto_height.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accordion/sortable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/Dates_in_other_months.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/animations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/date_inline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/default_functionality.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/display_button_bar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/format_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/icon_trigger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/local_calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/month_year_menus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/multiple_months.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/populate_alternate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/restricted_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/select_date_range.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Button/split_button.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Button/toolbar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/accent_folding.php" afterPath="$PROJECT_DIR$/Autocomplete/accent_folding.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/categories.php" afterPath="$PROJECT_DIR$/Autocomplete/categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/checkboxes.php" afterPath="$PROJECT_DIR$/Button/checkboxes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/combobox.php" afterPath="$PROJECT_DIR$/Autocomplete/combobox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/custom_display.php" afterPath="$PROJECT_DIR$/Autocomplete/custom_display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/default_functionality.php" afterPath="$PROJECT_DIR$/Autocomplete/default_functionality.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/default_functionality.php" afterPath="$PROJECT_DIR$/Button/default_functionality.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/icons.php" afterPath="$PROJECT_DIR$/Button/icons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/multiple_remote.php" afterPath="$PROJECT_DIR$/Autocomplete/multiple_remote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/multiple_values.php" afterPath="$PROJECT_DIR$/Autocomplete/multiple_values.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/radios.php" afterPath="$PROJECT_DIR$/Button/radios.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/remote_datasource.php" afterPath="$PROJECT_DIR$/Autocomplete/remote_datasource.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/scrollable_results.php" afterPath="$PROJECT_DIR$/Autocomplete/scrollable_results.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jquerypractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +54,48 @@
     <favorites_list name="jquerypractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="local_calendar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datepicker/local_calendar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
+              <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="populate_alternate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datepicker/populate_alternate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restricted_date.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datepicker/restricted_date.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select_date_range.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Datepicker/select_date_range.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7356948" vertical-offset="0" max-vertical-offset="734">
+              <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +110,35 @@
         <option value="$PROJECT_DIR$/Accordion/no_auto_height.php" />
         <option value="$PROJECT_DIR$/Accordion/Open_on_hoverintent.php" />
         <option value="$PROJECT_DIR$/Accordion/sortable.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/default_functionality.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/accent_folding.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/categories.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/combobox.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/custom_data_and_display.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/custom_display.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/multiple_values.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/multiple_remote.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/remote_datasource.php" />
+        <option value="$PROJECT_DIR$/Autocomplete/scrollable_results.php" />
+        <option value="$PROJECT_DIR$/Button/default_functionality.php" />
+        <option value="$PROJECT_DIR$/Button/checkboxes.php" />
+        <option value="$PROJECT_DIR$/Button/icons.php" />
+        <option value="$PROJECT_DIR$/Button/radios.php" />
+        <option value="$PROJECT_DIR$/Button/split_button.php" />
+        <option value="$PROJECT_DIR$/Button/toolbar.php" />
+        <option value="$PROJECT_DIR$/Datepicker/default_functionality.php" />
+        <option value="$PROJECT_DIR$/Datepicker/animations.php" />
+        <option value="$PROJECT_DIR$/Datepicker/Dates_in_other_months.php" />
+        <option value="$PROJECT_DIR$/Datepicker/display_button_bar.php" />
+        <option value="$PROJECT_DIR$/Datepicker/date_inline.php" />
+        <option value="$PROJECT_DIR$/Datepicker/month_year_menus.php" />
+        <option value="$PROJECT_DIR$/Datepicker/multiple_months.php" />
+        <option value="$PROJECT_DIR$/Datepicker/format_date.php" />
+        <option value="$PROJECT_DIR$/Datepicker/icon_trigger.php" />
+        <option value="$PROJECT_DIR$/Datepicker/local_calendar.php" />
+        <option value="$PROJECT_DIR$/Datepicker/populate_alternate.php" />
+        <option value="$PROJECT_DIR$/Datepicker/restricted_date.php" />
+        <option value="$PROJECT_DIR$/Datepicker/select_date_range.php" />
       </list>
     </option>
   </component>
@@ -117,7 +203,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Accordion" />
+              <option name="myItemId" value="Datepicker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -164,7 +250,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1391" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -174,7 +260,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -260,6 +346,233 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8751734" vertical-offset="359" max-vertical-offset="1080">
           <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/default_functionality.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.041666" vertical-offset="320" max-vertical-offset="795">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/accent_folding.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.833334" vertical-offset="1" max-vertical-offset="735">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334" vertical-offset="256" max-vertical-offset="1050">
+          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/combobox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334" vertical-offset="1981" max-vertical-offset="2775">
+          <caret line="179" column="7" selection-start-line="179" selection-start-column="7" selection-end-line="179" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/custom_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28474113" vertical-offset="511" max-vertical-offset="1245">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/multiple_values.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334" vertical-offset="511" max-vertical-offset="1305">
+          <caret line="81" column="7" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/multiple_remote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334" vertical-offset="316" max-vertical-offset="1110">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/remote_datasource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.125" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autocomplete/scrollable_results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334" vertical-offset="211" max-vertical-offset="1005">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button/default_functionality.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49046323" vertical-offset="0" max-vertical-offset="734">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button/radios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8210526" vertical-offset="0" max-vertical-offset="540">
+          <caret line="26" column="81" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button/icons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2947369" vertical-offset="0" max-vertical-offset="705">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button/checkboxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47368422" vertical-offset="0" max-vertical-offset="600">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button/split_button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.833334" vertical-offset="226" max-vertical-offset="960">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button/toolbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.833334" vertical-offset="931" max-vertical-offset="1665">
+          <caret line="105" column="7" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/default_functionality.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/animations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="615">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/Dates_in_other_months.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/display_button_bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/date_inline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3678474" vertical-offset="0" max-vertical-offset="734">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/month_year_menus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/multiple_months.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/format_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/icon_trigger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/local_calendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/populate_alternate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/restricted_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datepicker/select_date_range.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7356948" vertical-offset="0" max-vertical-offset="734">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
           <folding />
         </state>
       </provider>

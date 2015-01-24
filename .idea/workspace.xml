@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7f58a0-d19a-4c08-9cd5-15d53a103eef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/Dates_in_other_months.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/animations.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/date_inline.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/default_functionality.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/display_button_bar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/format_date.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/icon_trigger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/local_calendar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/month_year_menus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/multiple_months.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/populate_alternate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/restricted_date.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datepicker/select_date_range.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Button/split_button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Button/toolbar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/accent_folding.php" afterPath="$PROJECT_DIR$/Autocomplete/accent_folding.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/categories.php" afterPath="$PROJECT_DIR$/Autocomplete/categories.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/checkboxes.php" afterPath="$PROJECT_DIR$/Button/checkboxes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/combobox.php" afterPath="$PROJECT_DIR$/Autocomplete/combobox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/custom_display.php" afterPath="$PROJECT_DIR$/Autocomplete/custom_display.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/default_functionality.php" afterPath="$PROJECT_DIR$/Autocomplete/default_functionality.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/default_functionality.php" afterPath="$PROJECT_DIR$/Button/default_functionality.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/icons.php" afterPath="$PROJECT_DIR$/Button/icons.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/multiple_remote.php" afterPath="$PROJECT_DIR$/Autocomplete/multiple_remote.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/multiple_values.php" afterPath="$PROJECT_DIR$/Autocomplete/multiple_values.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Button/radios.php" afterPath="$PROJECT_DIR$/Button/radios.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/remote_datasource.php" afterPath="$PROJECT_DIR$/Autocomplete/remote_datasource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Autocomplete/scrollable_results.php" afterPath="$PROJECT_DIR$/Autocomplete/scrollable_results.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dialog/animation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dialog/default_example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dialog/modal_confirmation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dialog/modal_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dialog/modal_message.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jquerypractice.iws" />
@@ -55,42 +32,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="local_calendar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datepicker/local_calendar.php">
+      <file leaf-file-name="default_example.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dialog/default_example.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dialog/animation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal_confirmation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dialog/modal_confirmation.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
               <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-              <folding />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="populate_alternate.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datepicker/populate_alternate.php">
+      <file leaf-file-name="modal_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dialog/modal_form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-              <folding />
+            <state vertical-scroll-proportion="-29.333334" vertical-offset="1396" max-vertical-offset="2190">
+              <caret line="140" column="7" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#input#3;n#fieldset#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="restricted_date.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datepicker/restricted_date.php">
+      <file leaf-file-name="modal_message.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dialog/modal_message.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select_date_range.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datepicker/select_date_range.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7356948" vertical-offset="0" max-vertical-offset="734">
-              <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-              <folding />
+            <state vertical-scroll-proportion="0.7073509" vertical-offset="0" max-vertical-offset="721">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,6 +132,11 @@
         <option value="$PROJECT_DIR$/Datepicker/populate_alternate.php" />
         <option value="$PROJECT_DIR$/Datepicker/restricted_date.php" />
         <option value="$PROJECT_DIR$/Datepicker/select_date_range.php" />
+        <option value="$PROJECT_DIR$/Dialog/default_example.php" />
+        <option value="$PROJECT_DIR$/Dialog/animation.php" />
+        <option value="$PROJECT_DIR$/Dialog/modal_confirmation.php" />
+        <option value="$PROJECT_DIR$/Dialog/modal_form.php" />
+        <option value="$PROJECT_DIR$/Dialog/modal_message.php" />
       </list>
     </option>
   </component>
@@ -203,7 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Datepicker" />
+              <option name="myItemId" value="Dialog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -411,8 +409,8 @@
         <state vertical-scroll-proportion="-38.125" vertical-offset="0" max-vertical-offset="1005">
           <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -574,6 +572,52 @@
         <state vertical-scroll-proportion="0.7356948" vertical-offset="0" max-vertical-offset="734">
           <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialog/default_example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialog/animation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialog/modal_confirmation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialog/modal_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334" vertical-offset="1396" max-vertical-offset="2190">
+          <caret line="140" column="7" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#input#3;n#fieldset#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialog/modal_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7073509" vertical-offset="0" max-vertical-offset="721">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

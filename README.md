@@ -1,3 +1,3 @@
-# jquerypractice
+# jQuery-Practice
 
-Jquery practice with some examples and its functionality.
+jQuery Practices with some examples and its functionalities.
